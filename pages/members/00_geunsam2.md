@@ -2,7 +2,7 @@
 
 ## 🥸 인적사항
 
-- name : 정다운
+- name : 정다운  
 - github : [GeunSam2](https://github.com/dahwoon)
 - age : 미상
 - blog : [모두의 근삼이](https://ykarma1996.tistory.com/)
